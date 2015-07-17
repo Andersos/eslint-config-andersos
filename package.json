@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-andersos",
+  "version": "0.0.0",
+  "description": "ESLint config for @Andersos",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/config-test.js",
+    "pretest": "eslint -c ./eslintrc.json .",
+    "prepublish": "npm prune && npm test"
+  },
+  "keywords": [
+    "coding-standard",
+    "standards",
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "style"
+  ],
+  "author": {
+    "name": "Anders Olsen Sandvik",
+    "email": "npm@andersos.net",
+    "url": "https://andersos.net/"
+  },
+  "repository": "andersos/eslint-config-andersos",
+  "bugs": {
+    "url": "https://github.com/andersos/eslint-config-andersos/issues"
+  },
+  "devDependencies": {
+    "eslint": "^1.0.0-rc-1"
+  }
+}
