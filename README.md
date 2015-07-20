@@ -1,6 +1,6 @@
 # eslint-config-andersos [![Build Status](https://travis-ci.org/Andersos/eslint-config-andersos.svg)](https://travis-ci.org/Andersos/eslint-config-andersos)
 
-ESLint config for @andersos
+[ESLint](http://eslint.org/) config for @andersos
 
 ## How to use it
 
