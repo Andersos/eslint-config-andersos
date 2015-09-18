@@ -23,6 +23,7 @@ You can override specific settings by specifying them as normal. See <http://esl
 ## Publishing
 
 ```bash
+Update CHANGELOG
 $ npm version <patch | minor | major>
 $ git push --tags origin master
 $ npm publish
