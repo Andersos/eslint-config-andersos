@@ -2,19 +2,14 @@
   "ecmaFeatures": {
     "modules": true
   },
-
   "env": {
-    "browser": false,
-    "es6": true,
     "node": true
   },
-
   "globals": {
     "document": false,
     "navigator": false,
     "window": false
   },
-
   "rules": {
     "accessor-pairs": 2,
     "array-bracket-spacing": 0,

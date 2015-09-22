@@ -18,6 +18,16 @@ Then add the `extends` option to your `.eslintrc`:
 }
 ```
 
+For React.js rules you can add
+```json
+{
+    "extends": [
+      "andersos",
+      "andersos/react"
+      ]
+}
+```
+
 You can override specific settings by specifying them as normal. See <http://eslint.org/docs/developer-guide/shareable-configs> for more details.
 
 ## Publishing

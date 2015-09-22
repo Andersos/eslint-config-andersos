@@ -1,3 +1,6 @@
+## 0.1.0 (2015-09-22)
+Add React rules
+
 ## 0.0.2 (2015-09-18)
 Change indent rule
 
