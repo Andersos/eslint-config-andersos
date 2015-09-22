@@ -24,7 +24,7 @@ For React.js rules you can add
     "extends": [
       "andersos",
       "andersos/react"
-      ]
+    ]
 }
 ```
 
