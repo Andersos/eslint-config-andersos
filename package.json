@@ -27,6 +27,6 @@
     "url": "https://github.com/andersos/eslint-config-andersos/issues"
   },
   "devDependencies": {
-    "eslint": "1.7.2"
+    "eslint": "1.7.3"
   }
 }
