@@ -5,10 +5,11 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "node test/config-test.js",
-    "pretest": "eslint -c ./index.js .",
+    "outdated": "npm outdated --depth=0",
+    "postversion": "git push --tags origin master",
     "prepublish": "npm prune && npm test",
-    "outdated": "npm outdated --depth=0"
+    "pretest": "eslint -c ./index.js .",
+    "test": "node test/config-test.js"
   },
   "keywords": [
     "coding-standard",
