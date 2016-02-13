@@ -76,7 +76,7 @@
     "no-empty": 0,
     "no-empty-character-class": 2,
     "no-empty-class": 0,
-    "no-empty-label": 2,
+    "no-labels": 2,
     "no-eq-null": 0,
     "no-eval": 2,
     "no-ex-assign": 2,
