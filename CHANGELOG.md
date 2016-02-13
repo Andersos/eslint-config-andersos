@@ -1,3 +1,8 @@
+## 0.2.0 2016.02.13
+Update Travis Node version
+Update to eslint 2
+Base on eslint-config-standard
+
 ## 0.1.1 2015.10.24
 Turn off rule eol-last
 
