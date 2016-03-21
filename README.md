@@ -1,4 +1,4 @@
-# eslint-config-andersos [![Build Status](https://travis-ci.org/Andersos/eslint-config-andersos.svg)](https://travis-ci.org/Andersos/eslint-config-andersos)
+# eslint-config-andersos [![Build Status](https://travis-ci.org/Andersos/eslint-config-andersos.svg)](https://travis-ci.org/Andersos/eslint-config-andersos) [![Dependency Status](https://david-dm.org/Andersos/eslint-config-andersos.svg)](https://david-dm.org/Andersos/eslint-config-andersos) [![devDependency Status](https://david-dm.org/Andersos/eslint-config-andersos/dev-status.svg)](https://david-dm.org/Andersos/eslint-config-andersos#info=devDependencies)
 
 [ESLint](http://eslint.org/) config for @andersos
 

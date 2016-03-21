@@ -5,7 +5,6 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "outdated": "npm outdated --depth=0",
     "postversion": "git push --tags origin master",
     "prepublish": "npm prune && npm test",
     "pretest": "eslint -c ./index.js .",
@@ -27,9 +26,6 @@
   "repository": "andersos/eslint-config-andersos",
   "bugs": {
     "url": "https://github.com/andersos/eslint-config-andersos/issues"
-  },
-  "devDependencies": {
-    "eslint": "1.10.3"
   },
   "dependencies": {
     "eslint": "^2.0.0",
