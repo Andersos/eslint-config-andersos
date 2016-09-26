@@ -28,7 +28,7 @@
     "url": "https://github.com/andersos/eslint-config-andersos/issues"
   },
   "dependencies": {
-    "eslint": "^2.0.0",
+    "eslint": "^3.6.1",
     "eslint-config-standard": "^5.1.0",
     "eslint-plugin-promise": "^1.0.8",
     "eslint-plugin-standard": "^1.3.2"
